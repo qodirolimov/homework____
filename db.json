@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "name": "Akmal",
+      "id": 1
+    },
+    {
+      "name": "Botir",
+      "id": 2
+    },
+    {
+      "name": "Sobir",
+      "id": 3
+    },
+    {
+      "name": "Sanjar",
+      "id": 4
+    },
+    {
+      "name": "Doniyor",
+      "id": 5
+    },
+    {
+      "name": "Davron",
+      "id": 6
+    },
+    {
+      "name": "Jamshid",
+      "id": 7
+    },
+    {
+      "name": "Sarvar",
+      "id": 8
+    },
+    {
+      "name": "Iskandar",
+      "id": 9
+    }
+  ]
+}

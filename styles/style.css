@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.modal_first {
+  width: 1440px;
+  height: 720px;
+  position: relative;
+  left: 50px;
+  background-color: rgb(47, 255, 47);
+  top: -529px;
+  border: 2px solid red;
+  display: none;
+}
+
+.close1 {
+  position: relative;
+  left: 1180px;
+  width: 220px;
+  top: -268px;
+  padding: 22px;
+  color: white;
+  font-weight: 900;
+  font-size: 47px;
+}
+
+.modal_first_text {
+  font-weight: 900;
+  font-size: 187px;
+  position: relative;
+  color: white;
+  left: 212px;
+  top: 120px;
+}
